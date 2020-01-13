@@ -1,4 +1,4 @@
-package org.artaban23.gcj.y2019.round1a;
+package org.artaban23.gcj.y2019.round1a.pylons;
 
 import java.io.InputStream;
 import java.io.PrintStream;

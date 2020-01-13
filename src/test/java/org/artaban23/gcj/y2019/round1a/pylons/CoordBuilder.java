@@ -1,4 +1,6 @@
-package org.artaban23.gcj.y2019.round1a;
+package org.artaban23.gcj.y2019.round1a.pylons;
+
+import org.artaban23.gcj.y2019.round1a.pylons.Solution;
 
 class CoordBuilder {
 
